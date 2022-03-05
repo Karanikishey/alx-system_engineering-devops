@@ -1,1 +1,1 @@
-My wowz readme
+my amazing readme
