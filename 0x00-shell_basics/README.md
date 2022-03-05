@@ -1,1 +1,1 @@
-my amazing readme
+cool readme
