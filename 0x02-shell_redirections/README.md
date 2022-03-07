@@ -1,1 +1,1 @@
-prints 0-hello_world
+display 1-confused_smiley
