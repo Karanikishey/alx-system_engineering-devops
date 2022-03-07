@@ -1,1 +1,1 @@
-display 2-hello_file
+display content of etc passwd file
