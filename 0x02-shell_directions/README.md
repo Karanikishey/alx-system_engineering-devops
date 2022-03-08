@@ -1,1 +1,1 @@
-display content of /etc/passwd /etc/hosts
+script that displays newest files in current directory
