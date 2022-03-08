@@ -1,1 +1,1 @@
-script that deletes all regular files that are present in the current directory and all its subfolders
+script that counts the number of directories and sub directories in the current directory
