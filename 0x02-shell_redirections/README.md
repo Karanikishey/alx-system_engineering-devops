@@ -1,1 +1,1 @@
-a script that creates a file containing a text
+script that writes into a file and the result of a command
