@@ -1,1 +1,1 @@
-prints all possible combinations
+converts number from base 10 to base 16
