@@ -1,1 +1,1 @@
-creates a new global variable
+prints all possible combinations
