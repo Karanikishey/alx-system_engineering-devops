@@ -1,1 +1,1 @@
-converts a number from base 2 to base 10
+script that prints a combination of two letters except oo
