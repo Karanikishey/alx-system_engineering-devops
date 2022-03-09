@@ -1,1 +1,1 @@
-prints a number with two decimal places
+creates a new global variable
